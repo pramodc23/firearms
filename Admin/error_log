@@ -1,0 +1,69 @@
+[10-May-2018 07:12:56 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/vmwebhungers/public_html/firearms-new/Admin/application/controllers/User.php on line 38
+[10-May-2018 08:27:03 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/vmwebhungers/public_html/firearms-new/Admin/application/controllers/User.php on line 529
+[10-May-2018 08:27:22 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/vmwebhungers/public_html/firearms-new/Admin/application/controllers/User.php on line 529
+[10-May-2018 08:29:23 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/vmwebhungers/public_html/firearms-new/Admin/application/controllers/User.php on line 529
+[10-May-2018 09:21:35 UTC] PHP Fatal error:  Call to undefined function iconv() in /home/vmwebhungers/public_html/firearms-new/Admin/application/controllers/User.php on line 529
+[10-May-2018 10:57:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new/Admin/application/views/add_category.php on line 39
+[10-May-2018 10:57:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new/Admin/application/views/add_category.php on line 39
+[10-May-2018 10:58:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new/Admin/application/views/add_category.php on line 39
+[10-May-2018 10:59:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new/Admin/application/views/add_category.php on line 40
+[10-May-2018 10:59:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new/Admin/application/views/add_category.php on line 40
+[29-May-2018 07:05:51 UTC] PHP Fatal error:  Unsupported operand types in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 566
+[29-May-2018 09:23:55 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/categories.php on line 79
+[29-May-2018 09:24:02 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/categories.php on line 79
+[29-May-2018 09:26:57 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/categories.php on line 79
+[29-May-2018 09:26:57 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/categories.php on line 79
+[30-May-2018 13:25:39 UTC] PHP Fatal error:  Call to a member function start_subquery() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 127
+[05-Jun-2018 05:06:57 UTC] PHP Fatal error:  Call to undefined function front_url() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 201
+[05-Jun-2018 05:06:58 UTC] PHP Fatal error:  Call to undefined function front_url() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 201
+[05-Jun-2018 05:06:58 UTC] PHP Fatal error:  Call to undefined function front_url() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 201
+[07-Jun-2018 12:01:44 UTC] PHP Fatal error:  Cannot redeclare Listings::viewListings() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 127
+[08-Jun-2018 10:08:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/users.php on line 54
+[12-Jun-2018 13:07:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 146
+[12-Jun-2018 13:25:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 150
+[13-Jun-2018 12:14:26 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 264
+[13-Jun-2018 12:14:35 UTC] PHP Fatal error:  Call to a member function create_links() on null in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 264
+[13-Jun-2018 12:52:01 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:52:01 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:52:02 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:52:02 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:52:02 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:52:02 UTC] PHP Fatal error:  Call to undefined method List_model::ListingBidsCount() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 124
+[13-Jun-2018 12:56:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[13-Jun-2018 12:57:33 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/viewListing.php on line 248
+[14-Jun-2018 12:18:13 UTC] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING), expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/bids.php on line 54
+[15-Jun-2018 12:18:32 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting identifier (T_STRING) in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 174
+[19-Jun-2018 13:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 207
+[19-Jun-2018 13:27:29 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 195
+[19-Jun-2018 13:27:58 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 195
+[19-Jun-2018 13:27:58 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 195
+[19-Jun-2018 13:28:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 210
+[19-Jun-2018 13:29:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 202
+[19-Jun-2018 13:31:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 209
+[19-Jun-2018 13:31:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 209
+[19-Jun-2018 13:31:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 209
+[19-Jun-2018 13:32:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 209
+[14-Aug-2018 08:34:11 UTC] PHP Fatal error:  Call to undefined method User_model::update_data() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 651
+[22-Aug-2018 07:21:58 UTC] PHP Fatal error:  Out of memory (allocated 807927808) (tried to allocate 805044224 bytes) in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/list_settings.php on line 233
+[22-Aug-2018 08:48:02 UTC] PHP Fatal error:  Maximum execution time of 5000 seconds exceeded in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/list_settings.php on line 232
+[22-Aug-2018 09:29:15 UTC] PHP Parse error:  syntax error, unexpected ''Your old passwor' (T_ENCAPSED_AND_WHITESPACE) in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[30-Aug-2018 05:59:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[03-Sep-2018 12:43:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[03-Sep-2018 12:43:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[03-Sep-2018 13:09:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[03-Sep-2018 13:12:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[04-Sep-2018 06:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 446
+[10-Sep-2018 05:36:48 UTC] PHP Fatal error:  Call to undefined function translate() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/list_settings.php on line 620
+[10-Sep-2018 05:36:56 UTC] PHP Fatal error:  Call to undefined function translate() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/list_settings.php on line 620
+[10-Sep-2018 05:37:27 UTC] PHP Fatal error:  Call to undefined function translate() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/views/list_settings.php on line 620
+[10-Sep-2018 06:52:58 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/User.php on line 655
+[26-Sep-2018 07:00:40 UTC] PHP Fatal error:  Call to undefined method CI_Pagination::create_links2() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 82
+[03-Oct-2018 07:13:54 UTC] PHP Fatal error:  Call to undefined function create_list_for_sold() in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 521
+[03-Oct-2018 09:26:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 530
+[03-Oct-2018 09:26:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 530
+[03-Oct-2018 09:26:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vmwebhungers/public_html/firearms-new-dev/Admin/application/controllers/Listings.php on line 530
