@@ -58,7 +58,7 @@ if(isset($segment1) && isset($segment2) && $segment1=='list-details'){
 <script src="<?php echo base_url(); ?>assets/js/sweetalert.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/f9e32bda9f.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/custom.js?v=<?php echo time(); ?>"></script>
-<title>Firearms : Online Gun Auction - Buy Guns at Firearms.network</title>
+<title>Firearms development : Online Gun Auction - Buy Guns at Firearms.network</title>
 </head>
 <input type="hidden" value="<?php echo base_url();?>" id="base_url">
 <style type="text/css">
